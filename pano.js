@@ -1,6 +1,6 @@
 import {
   KMZLoader
-} from "./KMZLoader.js";
+} from "./static/KMZLoader.js";
 
 
 function main() {
