@@ -35,8 +35,8 @@ import {
 	TextureLoader,
 	Vector3,
 	VectorKeyframeTrack
-} from "../../../build/three.module.js";
-import { TGALoader } from "../loaders/TGALoader.js";
+} from "https://p40l0v.github.io/the-panopticon/build/three.module.js";
+import { TGALoader } from "https://p40l0v.github.io/the-panopticon/loaders/TGALoader.js";
 
 var ColladaLoader = function ( manager ) {
 
