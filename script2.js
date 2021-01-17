@@ -1,6 +1,6 @@
 import {
   GLTFLoader
-} from "./GLTFLoader.js";
+} from "https://p40l0v.github.io/the-panopticon/loaders/KMZLoader.js";
 
 
 function main() {
