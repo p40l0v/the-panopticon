@@ -2,7 +2,7 @@ import {
 	FileLoader,
 	Loader,
 	Texture
-} from "../../../build/three.module.js";
+} from "https://p40l0v.github.io/the-panopticon/build/three.module.js";
 
 var TGALoader = function ( manager ) {
 
