@@ -3,9 +3,9 @@ import {
 	Group,
 	Loader,
 	LoadingManager
-} from "../build/three.module.js";
-import { ColladaLoader } from "./ColladaLoader.js";
-import { JSZip } from "../libs/jszip.module.min.js";
+} from "https://p40l0v.github.io/the-panopticon/build/three.module.js";
+import { ColladaLoader } from "https://p40l0v.github.io/the-panopticon/loaders/ColladaLoader.js";
+import { JSZip } from "https://p40l0v.github.io/the-panopticon/libs/jszip.module.min.js";
 
 var KMZLoader = function ( manager ) {
 
