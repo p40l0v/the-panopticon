@@ -1,6 +1,6 @@
 import {
   KMZLoader
-} from "/loaders/KMZLoader.js";
+} from "/the-panopticon/loaders/KMZLoader.js";
 
 
 function main() {
